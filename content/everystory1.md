@@ -1,5 +1,5 @@
 Title: Every Story 1
-Date: 10/02/2024
+Date: 02/10/2024
 Category: Every Story
 Tags: everystory, reviews
 Summary: reviewing stories
