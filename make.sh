@@ -7,5 +7,4 @@ wait
 git add .
 wait
 git commit -m "updating blog"
-wait
 git push 
