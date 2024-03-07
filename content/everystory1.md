@@ -45,3 +45,6 @@ Passing
 Hotline Miami 2
 Hotline Miami
 
+PS:
+
+ive also reviewed SICK! TRANS! GLORIOUS MOONDREAM! so ill rank it, it goes below MxTape but above Wake
