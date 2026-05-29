@@ -4,7 +4,7 @@ SITEURL = 'https://willow-zero.github.io/blog'
 
 PATH = 'content'
 
-TIMEZONE = 'EST'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
@@ -18,7 +18,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 
 # Social widget
-SOCIAL = (('Neocities', 'https://n1x1an.neocities.org/'),
+SOCIAL = (('Neocities', 'https://nulls3t.neocities.org/'),
           ('Mastodon', 'https://kolektiva.social/@ZeroGlytch_'),)
 
 DEFAULT_PAGINATION = False
