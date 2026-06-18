@@ -3,6 +3,7 @@ SITENAME = 'CyberOasis'
 SITEURL = 'https://willow-zero.github.io/blog'
 
 PATH = 'content'
+OUTPUT_PATH='docs'
 
 TIMEZONE = 'America/New_York'
 
